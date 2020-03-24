@@ -67,6 +67,7 @@
     "sinon": "^7.2.2",
     "slugg": "^1.1.0",
     "prettier": "^2.0.2",
+    "js-yaml": "^3.13.1",
     "yamljs": "^0.2.8"
   },
   "engines": {
